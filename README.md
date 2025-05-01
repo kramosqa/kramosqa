@@ -4,6 +4,7 @@
   <em>Senior QA Automation Engineer 🚀</em>
 </p>
 
+<!--
 ---
 
 ### 👩‍💻 About Me
@@ -19,32 +20,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40"/>          
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<!-- C# -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<!-- Visual Studio 2022 (usa icono genérico de VS) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<!-- VS Code -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<!-- intelliJ -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-<!-- Github -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<!-- Postman -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-<!-- Selenium -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40"/>
-<!-- Jenkins -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-<!-- Microsoft Azure -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-</p>
+
 
 ---
 
@@ -68,7 +44,7 @@
 |:-----------------------|:--------------------------------|:-------------|
 | ISTQB® Advanced Level Test Automation Engineering |  [Official U.S. List of Certified & Credentialed Software Testers™ Profile](https://atsqa.org/certified-testers/profile/11ec543280ca4e3b81192d14304a726a) | Dec 2022    |
 
-<!--
+
 ---
 
 ### 📈 GitHub Stats
@@ -76,7 +52,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karinerb19&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
--->
+
 
 
 
@@ -85,3 +61,5 @@
 
 > “If you get 1% better each day for one year, you'll end up 37 times better by the time you're done.”  
 > — *James Clear, Atomic Habits*
+>
+-->
