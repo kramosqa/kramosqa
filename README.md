@@ -74,12 +74,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kramosqa&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
-
----
 -->
+---
+
 
 ---
 ### 🧠 Quote that inspires me (Frase que me inspira)
 
 > “If you get 1% better each day for one year, you'll end up 37 times better by the time you're done.”  
 > — *James Clear, Atomic Habits*
+
+-->
